@@ -1,0 +1,21 @@
+1.wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz
+2.tar xvfz pentbox-1.8.tar.gz
+3.cd pentbox-1.8
+4../pentbox.rb
+
+
+Server side
+./pentbox
+	network tools	
+		honeypot
+			fast auto configuration
+				-port number will be displayed-
+
+
+client side
+	ifconfig (check for ip address ---inet---)
+		go to browser
+			type ipaddress:port_number
+	
+
+on server terminal, you can see it happen
